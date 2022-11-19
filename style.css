@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 30px;
+    padding: 30px;
+}
+#A1{
+    text-align: center;
+    background-color: rgb(10, 10, 152);
+}
+.a1{
+    color: whitesmoke;
+}
+.a1a{
+    color: aqua;
+}
+.a1a:hover{
+    color: brown;
+}
+.a1a:visited{
+    color: chartreuse;
+}
+.a1a:active{
+    color: red;
+}
+.a2{
+    text-align: center;
+}
+.a3a1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#A2{
+    text-align: center;
+    background-color: rgb(10, 10, 152);
+}
+.a4{
+    text-align: left;
+    color: whitesmoke;
+}
+.a4a1{
+    color: aqua;
+
+}
+
+.a4a1:hover{
+    color: brown;
+}
+.a4a1:visited{
+    color: chartreuse;
+}
+.a4a1:active{
+    color: red;
+}
+.Abscond{
+    color: red;
+}
